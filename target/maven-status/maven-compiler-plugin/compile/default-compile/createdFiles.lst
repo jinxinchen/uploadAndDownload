@@ -1,0 +1,5 @@
+com\test\controller\HelloController.class
+com\file\controller\downLoadController.class
+com\file\controller\ToolController.class
+com\file\controller\UploadController.class
+com\interector\TestInterectorController.class
